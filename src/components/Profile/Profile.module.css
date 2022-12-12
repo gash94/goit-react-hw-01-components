@@ -1,11 +1,10 @@
 .profile {
+  margin: 60px auto;
   display: flex;
   flex-direction: column;
   border: 1px solid #aaa7ac;
   border-radius: 10px;
   width: 250px;
-  height: 330px;
-
   box-shadow: 8px 8px 9px -5px rgba(201, 202, 206, 1);
 }
 
